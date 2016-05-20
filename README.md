@@ -5,6 +5,8 @@ Idea: App that lets you find where vending machines are and what they are stocke
 
 Map: I figure the easiest thing to do is hook up to google maps and overlay the vending info on top. 
 
+Comments note: As this project could become very difficult proper formatting and commenting should be observed.
+
 
 List of contributers:
 
